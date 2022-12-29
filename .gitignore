@@ -1,6 +1,7 @@
 /META-INF
+/out
 .classpath
-.proejct
+.project
 ChessProject.iml
 enpassantTestThing
 
